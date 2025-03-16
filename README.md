@@ -1,2 +1,2 @@
-# mi-portafolio
-Mi Portafolio Digital
+# Portafolio Digital
+Este es el repositorio del frontend del portafolio digital.
